@@ -7,3 +7,6 @@ Feel free to give me advices or critics, im open xD
 # Social Media
 Discord : xofak\
 You can reach me by my Discord account, let's mutual and build some relation! Thank You.
+
+# logs
+last commit Friday, 13/11/2026 21:48

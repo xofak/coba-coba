@@ -4,7 +4,7 @@ Halo, saya "xofak". Saya buat repo ini, karena niat saya muncul pas mengerjakan 
 \
 Feel free to give me advices or critics, im open xD\
 \
-\
+
 # Social Media
 Discord : xofak\
 You can reach me by my Discord account, let's mutual and build some relation! Thank You.

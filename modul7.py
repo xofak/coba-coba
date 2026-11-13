@@ -1,3 +1,7 @@
+# ========== Modul 7 ==========
+
+# ========== Soal 1 ==========
+
 nilai = [80,75,90,60,85]
 
 def hitung_rata_rata(daftar_nilai):
@@ -17,6 +21,8 @@ print(hitung_rata_rata(nilai))
 # dan itu menyebabkan sedikit bug, karena hasil akhirnya adalah (80.0, 400, 5), yang di mana salah perhitungan.
 # saya tanya chatgpt, dan dia menyarankan untuk menggunakan total += i, karena i akan mengambil setiap nilai dari daftar_nilai secara berurutan, sehingga hasil akhirnya menjadi (78.0, 390, 5), yang mana sudah benar.
 
+# ========== Soal 2 ==========
+
 a = ["Mangga", "Apel", "Jeruk", "Pisang", "Anggur"]
 
 def cari_data(koleksi, data_dicari):
@@ -33,6 +39,8 @@ def cari_data(koleksi, data_dicari):
 cari_data(a, "Apel")
 
 #asoyyyy bisa gueh cuy, kalo logika nya dibantu dijabarkan sama A.I. MAN I SO BAD AT UNDERSTANDING THE QUESTION, FUCK! LOL
+
+# ========== Soal 3 ==========
 
 data = ["Mangga", "Apel"]
 
